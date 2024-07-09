@@ -62,9 +62,6 @@ Sou uma pessoa autista, estudante de ciências da computação e aspiro trabalha
 ## <span style="color: #A020F0;"> GitHub Stats</span> 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nataliaoliveiradev&show_icons=true&bg_color=000&border_color=4B0082&title_color=4B0082&text_color=FFF)
 
-## <span style="color: #A020F0;"> Linguagens mais usadas </span> 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nataliaoliveiradev&layout=compact&bg_color=000&border_color=4B0082&title_color=A020F0&text_color=FFF)
-
 ## Minhas contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nataliaoliveiradev&repo=dio-lab-open-source&bg_color=000&border_color=4B0082&show_icons=true&icon_color=30A3DC&title_color=A020F0&text_color=FFF)](https://github.com/nataliaoliveiradev/dio-lab-open-source)
 
